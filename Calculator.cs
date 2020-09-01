@@ -9,7 +9,7 @@ namespace MathTool
     
     class Calculator
     {
-        //께산시 프로그램
+        //기본 계산시 프로그램 수정
         public int add(int a, int b)
         {
             return a + b;
