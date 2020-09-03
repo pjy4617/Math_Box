@@ -34,5 +34,11 @@ namespace MathTool
         {
             return a % b;
         }
+        public int getAbs(int num)
+        {
+            if (num >= 0)
+                return num;
+            return -num;
+        }
     }
 }
