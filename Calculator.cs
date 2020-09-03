@@ -48,5 +48,15 @@ namespace MathTool
         {
             return n + (n + 1) / 2;
         }
+        public int factorial(int n)
+        {
+            int num = 1;
+            while( n>= 1)
+            {
+                num = num * n;
+                n--;
+            }
+            return num;
+        }
     }
 }
