@@ -26,9 +26,5 @@ namespace MathTool
         {
             return a / b;
         }
-        public void say_hello()
-        {
-            Console.WriteLine("Hello");
-        }
     }
 }
