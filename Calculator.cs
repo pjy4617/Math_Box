@@ -18,10 +18,13 @@ namespace MathTool
         {
             return a - b;
         }
-        //곱셈
         public int multipy(int a, int b) 
         {
             return a * b;
+        }
+        public int divide(int a, int b)
+        {
+            return a / b;
         }
     }
 }
