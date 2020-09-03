@@ -30,5 +30,9 @@ namespace MathTool
         {
             return (a + b) / 2;
         }
+        public int getRemainder(int a, int b)
+        {
+            return a % b;
+        }
     }
 }
