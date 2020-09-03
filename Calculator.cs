@@ -40,5 +40,9 @@ namespace MathTool
                 return num;
             return -num;
         }
+        public int getPercent(int a, int b)
+        {
+            return (a / b) * 100;
+        }
     }
 }
