@@ -22,7 +22,7 @@ namespace MathTool
         {
             return a * b;
         }
-        public int divide(int a, int b)
+        public int divide_premium(int a, int b)
         {
             return a / b;
         }
