@@ -30,5 +30,9 @@ namespace MathTool
         {
             return (a + b) / 2;
         }
+        public int getSum_Ver1(int n)
+        {
+            return n + (n + 1) / 2;
+        }
     }
 }
