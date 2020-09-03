@@ -26,6 +26,9 @@ namespace MathTool
         {
             return a / b;
         }
-        
+        public int getMedian(int a, int b)
+        {
+            return (a + b) / 2;
+        }
     }
 }
