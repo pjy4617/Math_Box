@@ -26,5 +26,6 @@ namespace MathTool
         {
             return a / b;
         }
+        
     }
 }
