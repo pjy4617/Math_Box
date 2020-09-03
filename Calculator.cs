@@ -26,9 +26,5 @@ namespace MathTool
         {
             return a / b;
         }
-        public int square(int a)
-        {
-            return a * a;
-        }
     }
 }
